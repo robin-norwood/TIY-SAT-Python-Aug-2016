@@ -19,11 +19,12 @@ Hello and welcome! I'm excited to have you joining the course. This document wil
 1. Monday-Thursday, class time begins at 9:00, and will last about three hours. Then we'll break for lunch, and have "lab time" until 5pm.
 2. Friday is lab time all day. Use this time to work on your assignments and further practice.
 3. Class time is mandatory. Per The Iron Yard's guidelines, more than four absences will result in loss of career support, but you can still finish the course.
-4. Being more than 5 minutes late to class will result in a tardy. Two tardies will be counted as one absence.
-5. Much of the lecture time will involve live coding, and you should follow along and participate.
+4. Lab time is considered class time. That said, you're expected to manage your own time and energy level, so if you complete your work early, or feel more productive after a short nap or coffee break, that's totally up to you, so long as you complete your assignments.
+5. Being more than 5 minutes late to class will result in a tardy. Two tardies will be counted as one absence.
+6. Much of the lecture time will involve live coding, and you should follow along and participate.
 7. Ask questions! If something doesn't make sense to you, that's a good opportunity for you to learn by asking a question.
-6. For lab and project time, please work together, ask each other questions, and help each other. I will also be available during lab time, so ask me for help if you need it. However, I'll also be grading assignments, preparing for the next day's class, and various other tasks. If you need to set aside some dedicated time to talk to me one-on-one, book time with me using calendly.
-7. Everyone is expected to participate, and help the rest of the class succeed as well. Rather than list all of the things that you shouldn't do, I ask you to keep in mind how your actions affect the learning experience of the rest of the class, and do your part to make this a positive experience for everyone.
+8. For lab and project time, please work together, ask each other questions, and help each other. I will also be available during lab time, so ask me for help if you need it. However, I'll also be grading assignments, preparing for the next day's class, and various other tasks. If you need to set aside some dedicated time to talk to me one-on-one, book time with me using calendly.
+9. Everyone is expected to participate, and help the rest of the class succeed as well. Rather than list all of the things that you shouldn't do, I ask you to keep in mind how your actions affect the learning experience of the rest of the class, and do your part to make this a positive experience for everyone.
 8. This course is meant to be hard. We'll be learning an incredible amount of information in a very short time, and it will be stressful for everyone. Be mindful of how you're handling the workload and stress, and if you need help, talk to one of the staff sooner rather than later.
 
 ## Honesty
@@ -47,15 +48,15 @@ Hello and welcome! I'm excited to have you joining the course. This document wil
 I cannot stress enough the importance of honesty and open communication.
 
 For the sake of clarity, we'll define Honesty as:
->Honesty - sincere, blameless, fairly earned, simple, unpretentious, and free of deceit.
+>Honesty: sincere, blameless, fairly earned, simple, unpretentious, and free of deceit.
 
 ## Homework Policy
 
 * All assignments are due at 8am before class begins
 * No assignments should include copy and pasted code
-  - Working with others is encouraged, though. Even if you work together, your fingers should type everything you turn in, and more importantly, you should *understand* every line of code.
+  - Working with others is encouraged, though. Even if you work together, or find an answer online, your fingers should type everything you turn in, and more importantly, you should *understand* every line of code.
 * No assignments should include code lifted or 'borrowed' from someone else without proper citation and licensing
-  - For instance, Stack Exchange is a popular 'answers' site. If you use an answer to help you get a solution, provide a link to that answer. Again, please make sure you understand the code you use, even if you got help.
+  - For instance, Stack Exchange is a popular 'answers' site. If you use an answer to help you get a solution, provide a link to that answer. Again, please make sure you understand the code you use, even if you get help.
 * Incomplete homework is better than late homework
 * Late homework is better than no homework
 * Asking for clarification or help on assignments is encouraged
@@ -137,7 +138,7 @@ Spend some time working through the [Code Academy Python tutorial](http://www.co
 Do the same with the [HTML and CSS](http://www.codecademy.com/en/tracks/web
 ) tutorial. HTML and CSS will be covered in the course, but not to the same depth as Python.
 
-As you go through these courses, take a note of anything that's confusing or surprising, and ask questions about those things at the appropriate time during class. A good habit to have as a software developer is that any time something surprises you, there's probably an opportunity to learn.
+As you go through these courses, take a note of anything that's confusing or surprising, and ask questions about those things at the appropriate time during class. A good habit to have as a software developer is that any time something surprises you, recognize it as an opportunity to learn.
 
 ## The Command Line
 The command line is an interface to the internals of your computer, as opposed to the graphical user interface (GUI) that we often use. We will be using the command line a lot in class, so learning the basics now will go a long way.
